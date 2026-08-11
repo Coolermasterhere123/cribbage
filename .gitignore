@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+build
+.DS_Store
+*.zip
+extract.js
+temp_zip
+.vercel

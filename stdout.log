@@ -1,0 +1,20 @@
+\nBuilding cribbage...\n
+Creating files...
+  + package.json
+  + .gitignore
+  + next.config.js
+  + public/manifest.json
+  + public/icon.svg
+  + public/sw.js
+  + app/layout.js
+  + app/page.js
+\nRunning npm install...
+
+added 25 packages, and audited 26 packages in 14s
+
+5 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+  + done
+\nCreating ZIP (no node_modules)...
